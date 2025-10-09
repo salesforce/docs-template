@@ -1,6 +1,6 @@
 # README
 
-A repo containing all the basic file templates and general guidelines for any open source project at Salesforce.
+A repo containing all the basic file templates for a docs-only project at Salesforce.
 
 ## Usage
 
