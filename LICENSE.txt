@@ -1,3 +1,8 @@
+*******************************************************************
+** THIS LICENSE APPLIES ONLY TO ANY DOCUMENTATION THAT MAY EXIST **
+                        ** IN THIS REPOSITORY **
+*******************************************************************
+
 Creative Commons Attribution-NonCommercial 4.0 International Public
 License
 
